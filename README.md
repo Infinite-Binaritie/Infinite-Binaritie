@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Infinite-Binaritie
+- 👀 I’m interested in Unity, C#, Blender
+- 📫 owner@binaritie.com
